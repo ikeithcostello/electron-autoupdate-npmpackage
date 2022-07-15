@@ -1,0 +1,21 @@
+{
+  "name": "auto-updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uaup-js": "^0.0.22"
+  },
+  "devDependencies": {
+    "electron": "11.3.0",
+    "electron-builder": "^22.14.5",
+    "electron-rebuild": "^3.2.7"
+  }
+}
